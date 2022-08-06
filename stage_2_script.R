@@ -70,7 +70,9 @@ for (j in 2:13){
 }  
   
   
-
+##CONCLUSION:
+#time point at which microbes enter stat phase for most of the samples(11 out of 12) is same which is 11.8602778  
+#and for only the 1st sample it is different which is 5.7386111
 
 
 
